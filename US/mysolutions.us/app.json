@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+    "id": "987179b8-ffb8-417b-80a8-72141c9c2af0",
+    "name": "mysolution.w1",
+    "publisher": "MyCompany",
+    "version": "1.0.0.0"
+  }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
